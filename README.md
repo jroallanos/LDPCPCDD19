@@ -1,8 +1,8 @@
 # Grupo 19
 
-## Matías Sepúlveda y Joaquín Roa
+Matías Sepúlveda y Joaquín Roa
 
-## Curso: Laboratorio de Programación Científica para Ciencia de Datos
+Curso: Laboratorio de Programación Científica para Ciencia de Datos
 
-## Profesor: Pablo Badilla
-## Auxiliar: Ignacio Meza
+Profesor: Pablo Badilla
+Auxiliar: Ignacio Meza
